@@ -1,2 +1,2 @@
-# Precurso-Henry
-este es un repositorio del modulo 2 del Precourse de Henry
+esta es una prueba de como crear un repositorio y como clonarlo desde GITHUB a mi compuatdora   
+Ivonne Gueirrez
